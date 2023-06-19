@@ -9,8 +9,6 @@
 
 - ⚡ My Services are **Translation for Turkish/English** and half **German**
 
-- 🤷‍♂️
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
