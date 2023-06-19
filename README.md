@@ -2,7 +2,7 @@
   <img src="https://pixelbank.neocities.org/cats/catonline.gif" width="100"/>
 </div>
 
-<h1 align="center">It's Pow.</h1>
+<h1 align="center">It's howdy the Pow.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whospow&label=Profile%20views&color=1a1919&style=flat" alt="whospow" /> </p>
 
 - 🌱 I’m currently learning **LUA and German**.
@@ -15,7 +15,9 @@
 
 - ⚡ I can do Translation for **Turkish, English** and **half German**.
 
-<div id="header" align="center">
+(just can't afford domains)
+
+<div id="header" align="left">
   <img src="https://pixelbank.neocities.org/buttons/1651a9a7.png" width="100"/>
 </div>
 
