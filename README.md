@@ -16,6 +16,6 @@
 - ⚡ I can do Translation for **Turkish, English** and **half German**.
 
 <div id="header" align="center">
-  <img src="https://pixelbank.neocities.org/buttons/1651a9a7.png" width="50"/>
+  <img src="https://pixelbank.neocities.org/buttons/1651a9a7.png" width="100"/>
 </div>
 
