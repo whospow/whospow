@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://seeklogo.com/images/B/boykisser-logo-2C0766BE33-seeklogo.com.png" width="50"/>
 </div><h1 align="center">howdy, i'm pow.</h1>
-<h3 align="center">designer and developer from 34</h1>
+<h3 align="center">designer and developer from ist/tr</h1>
 
 
 
