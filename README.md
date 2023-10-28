@@ -17,6 +17,8 @@
 
 - fun fact **i'm a very different person**
 
+- can speak **turkish (türkçe), english and german (deutsch)**
+
 <h3 align="left">langs and tools:</h3>
 c, c#, python, javascript, figma, photoshop, canva, illustrator, blender, unity, trying to understand linux
 
