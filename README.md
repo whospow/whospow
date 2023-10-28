@@ -1,17 +1,24 @@
 <div id="header" align="center">
-  <img src="https://pixelbank.neocities.org/cats/catonline.gif" width="100"/>
-</div>
+  <img src="https://seeklogo.com/images/B/boykisser-logo-2C0766BE33-seeklogo.com.png" width="50"/>
+</div><h1 align="center">howdy, i'm pow.</h1>
+<h3 align="center">designer and developer from 34</h1>
 
-<h1 align="center">It's howdy the Pow.</h1>
 
-- learning **lua**
 
-- graphic designer
+- i'm working on **self projects**
 
-- about me more [www.powtools.tk](https://www.powtools.tk) 
+- i'm trying to be better on **javascript**
 
-- translations: full Turkish and half German
-<div id="header" align="left">
-  <img src="https://pixelbank.neocities.org/buttons/1651a9a7.png" width="100"/>
-</div>
+- ask me about **anything weird**
+
+- reach me thru **whospow@proton.me**
+
+- my experiences can be **found nowhere**
+
+- fun fact **i'm a very different person**
+
+<h3 align="left">langs and tools:</h3>
+c, c#, python, javascript, figma, photoshop, canva, illustrator, blender, unity, trying to understand linux
+
+
 
