@@ -19,8 +19,10 @@
 
 - can speak **turkish (türkçe), english and german (deutsch)**
 
+- i'm focusing on **design (graphic,figma)**
+
 <h3 align="left">langs and tools:</h3>
-c, c#, python, javascript, figma, photoshop, canva, illustrator, blender, unity, trying to understand linux
+c, c#, python, javascript, figma, photoshop, canva, illustrator, blender, lua, unity, trying to understand linux
 
 
 
