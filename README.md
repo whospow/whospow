@@ -1,1 +1,1 @@
-<img src="Cat.jpg" alt="Cat">
+<img src="whp.jpg" alt="Cat">
