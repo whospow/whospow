@@ -1,1 +1,1 @@
-<img src="whp.jpg" alt="Cat">
+<img src="epstein.gif" alt="Cat">
